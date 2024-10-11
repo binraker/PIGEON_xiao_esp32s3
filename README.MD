@@ -23,3 +23,5 @@ If you are just connecting to it directly you can now simply go to http://192.16
 
 
  TODO write about setting up telemetry
+
+ Logging of the atmospheric pressure is not enabled by default at the moment (must fix that). so to enable it go to Edit Config -> Peripherals and switch the "Use telemetry recording " switch. then click "Save". now power cycle the board.
